@@ -1,0 +1,306 @@
+{
+  "MEX": {
+    "chemistry_score": 26.6,
+    "club_chemistry": 0.0,
+    "league_familiarity": 65.5,
+    "avg_ovr": 76.6,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 58.4
+  },
+  "RSA": {
+    "chemistry_score": 64.3,
+    "club_chemistry": 100.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 61.6,
+    "club_chemistry_norm": 90.0,
+    "league_familiarity_norm": 90.0
+  },
+  "KOR": {
+    "chemistry_score": 31.7,
+    "club_chemistry": 3.6,
+    "league_familiarity": 65.5,
+    "avg_ovr": 76.6,
+    "club_chemistry_norm": 22.5,
+    "league_familiarity_norm": 58.4
+  },
+  "CZE": {
+    "chemistry_score": 33.0,
+    "club_chemistry": 12.7,
+    "league_familiarity": 81.8,
+    "avg_ovr": 78.3,
+    "club_chemistry_norm": 28.9,
+    "league_familiarity_norm": 73.3
+  },
+  "CAN": {
+    "chemistry_score": 31.2,
+    "club_chemistry": 1.8,
+    "league_familiarity": 65.5,
+    "avg_ovr": 78.7,
+    "club_chemistry_norm": 21.3,
+    "league_familiarity_norm": 58.4
+  },
+  "BIH": {
+    "chemistry_score": 33.3,
+    "club_chemistry": 0.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 76.6,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 90.0
+  },
+  "QAT": {
+    "chemistry_score": 62.3,
+    "club_chemistry": 81.8,
+    "league_familiarity": 100.0,
+    "avg_ovr": 62.5,
+    "club_chemistry_norm": 77.3,
+    "league_familiarity_norm": 90.0
+  },
+  "SUI": {
+    "chemistry_score": 25.6,
+    "club_chemistry": 1.8,
+    "league_familiarity": 81.8,
+    "avg_ovr": 81.6,
+    "club_chemistry_norm": 21.3,
+    "league_familiarity_norm": 73.3
+  },
+  "MAR": {
+    "chemistry_score": 26.9,
+    "club_chemistry": 1.8,
+    "league_familiarity": 29.1,
+    "avg_ovr": 81.0,
+    "club_chemistry_norm": 21.3,
+    "league_familiarity_norm": 25.0
+  },
+  "HAI": {
+    "chemistry_score": 34.8,
+    "club_chemistry": 1.8,
+    "league_familiarity": 67.3,
+    "avg_ovr": 69.5,
+    "club_chemistry_norm": 21.3,
+    "league_familiarity_norm": 60.0
+  },
+  "SCO": {
+    "chemistry_score": 29.5,
+    "club_chemistry": 1.8,
+    "league_familiarity": 67.3,
+    "avg_ovr": 78.7,
+    "club_chemistry_norm": 21.3,
+    "league_familiarity_norm": 60.0
+  },
+  "USA": {
+    "chemistry_score": 38.5,
+    "club_chemistry": 12.7,
+    "league_familiarity": 65.5,
+    "avg_ovr": 81.7,
+    "club_chemistry_norm": 28.9,
+    "league_familiarity_norm": 58.4
+  },
+  "PAR": {
+    "chemistry_score": 28.1,
+    "club_chemistry": 0.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 75.6,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 90.0
+  },
+  "AUS": {
+    "chemistry_score": 36.3,
+    "club_chemistry": 0.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 72.5,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 90.0
+  },
+  "TUR": {
+    "chemistry_score": 27.9,
+    "club_chemistry": 10.9,
+    "league_familiarity": 29.1,
+    "avg_ovr": 80.8,
+    "club_chemistry_norm": 27.6,
+    "league_familiarity_norm": 25.0
+  },
+  "CUW": {
+    "chemistry_score": 56.0,
+    "club_chemistry": 81.8,
+    "league_familiarity": 81.8,
+    "avg_ovr": 59.7,
+    "club_chemistry_norm": 77.3,
+    "league_familiarity_norm": 73.3
+  },
+  "CIV": {
+    "chemistry_score": 21.2,
+    "club_chemistry": 0.0,
+    "league_familiarity": 38.2,
+    "avg_ovr": 79.5,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 33.4
+  },
+  "ECU": {
+    "chemistry_score": 24.4,
+    "club_chemistry": 1.8,
+    "league_familiarity": 40.0,
+    "avg_ovr": 77.7,
+    "club_chemistry_norm": 21.3,
+    "league_familiarity_norm": 35.0
+  },
+  "JPN": {
+    "chemistry_score": 18.3,
+    "club_chemistry": 0.0,
+    "league_familiarity": 50.9,
+    "avg_ovr": 79.1,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 45.0
+  },
+  "TUN": {
+    "chemistry_score": 32.3,
+    "club_chemistry": 0.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 72.7,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 90.0
+  },
+  "SWE": {
+    "chemistry_score": 29.5,
+    "club_chemistry": 1.8,
+    "league_familiarity": 38.2,
+    "avg_ovr": 80.3,
+    "club_chemistry_norm": 21.3,
+    "league_familiarity_norm": 33.4
+  },
+  "EGY": {
+    "chemistry_score": 60.7,
+    "club_chemistry": 81.8,
+    "league_familiarity": 81.8,
+    "avg_ovr": 70.4,
+    "club_chemistry_norm": 77.3,
+    "league_familiarity_norm": 73.3
+  },
+  "IRN": {
+    "chemistry_score": 62.2,
+    "club_chemistry": 81.8,
+    "league_familiarity": 81.8,
+    "avg_ovr": 65.0,
+    "club_chemistry_norm": 77.3,
+    "league_familiarity_norm": 73.3
+  },
+  "NZL": {
+    "chemistry_score": 36.3,
+    "club_chemistry": 0.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 71.6,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 90.0
+  },
+  "CPV": {
+    "chemistry_score": 33.5,
+    "club_chemistry": 0.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 71.6,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 90.0
+  },
+  "KSA": {
+    "chemistry_score": 24.4,
+    "club_chemistry": 10.9,
+    "league_familiarity": 49.1,
+    "avg_ovr": 74.0,
+    "club_chemistry_norm": 27.6,
+    "league_familiarity_norm": 43.4
+  },
+  "URU": {
+    "chemistry_score": 19.4,
+    "club_chemistry": 0.0,
+    "league_familiarity": 25.5,
+    "avg_ovr": 80.7,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 21.7
+  },
+  "SEN": {
+    "chemistry_score": 25.2,
+    "club_chemistry": 1.8,
+    "league_familiarity": 50.9,
+    "avg_ovr": 80.5,
+    "club_chemistry_norm": 21.3,
+    "league_familiarity_norm": 45.0
+  },
+  "IRQ": {
+    "chemistry_score": 64.3,
+    "club_chemistry": 100.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 59.8,
+    "club_chemistry_norm": 90.0,
+    "league_familiarity_norm": 90.0
+  },
+  "NOR": {
+    "chemistry_score": 16.3,
+    "club_chemistry": 0.0,
+    "league_familiarity": 23.6,
+    "avg_ovr": 81.8,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 20.0
+  },
+  "ALG": {
+    "chemistry_score": 17.1,
+    "club_chemistry": 0.0,
+    "league_familiarity": 29.1,
+    "avg_ovr": 79.3,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 25.0
+  },
+  "AUT": {
+    "chemistry_score": 13.0,
+    "club_chemistry": 5.5,
+    "league_familiarity": 29.1,
+    "avg_ovr": 79.5,
+    "club_chemistry_norm": 23.9,
+    "league_familiarity_norm": 25.0
+  },
+  "JOR": {
+    "chemistry_score": 64.3,
+    "club_chemistry": 100.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 60.0,
+    "club_chemistry_norm": 90.0,
+    "league_familiarity_norm": 90.0
+  },
+  "COD": {
+    "chemistry_score": 34.8,
+    "club_chemistry": 0.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 75.9,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 90.0
+  },
+  "UZB": {
+    "chemistry_score": 64.3,
+    "club_chemistry": 100.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 61.2,
+    "club_chemistry_norm": 90.0,
+    "league_familiarity_norm": 90.0
+  },
+  "COL": {
+    "chemistry_score": 22.8,
+    "club_chemistry": 0.0,
+    "league_familiarity": 40.0,
+    "avg_ovr": 79.9,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 35.0
+  },
+  "GHA": {
+    "chemistry_score": 24.8,
+    "club_chemistry": 0.0,
+    "league_familiarity": 67.3,
+    "avg_ovr": 77.6,
+    "club_chemistry_norm": 20.0,
+    "league_familiarity_norm": 60.0
+  },
+  "PAN": {
+    "chemistry_score": 64.3,
+    "club_chemistry": 100.0,
+    "league_familiarity": 100.0,
+    "avg_ovr": 60.6,
+    "club_chemistry_norm": 90.0,
+    "league_familiarity_norm": 90.0
+  }
+}

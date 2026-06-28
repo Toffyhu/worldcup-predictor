@@ -1,0 +1,266 @@
+{
+ "A": [
+  {
+   "code": "MEX",
+   "name": "Mexico",
+   "name_cn": "墨西哥"
+  },
+  {
+   "code": "RSA",
+   "name": "South Africa",
+   "name_cn": "南非"
+  },
+  {
+   "code": "KOR",
+   "name": "South Korea",
+   "name_cn": "韩国"
+  },
+  {
+   "code": "CZE",
+   "name": "Czech Republic",
+   "name_cn": "捷克"
+  }
+ ],
+ "B": [
+  {
+   "code": "CAN",
+   "name": "Canada",
+   "name_cn": "加拿大"
+  },
+  {
+   "code": "BIH",
+   "name": "Bosnia and Herzegovina",
+   "name_cn": "波黑"
+  },
+  {
+   "code": "QAT",
+   "name": "Qatar",
+   "name_cn": "卡塔尔"
+  },
+  {
+   "code": "SUI",
+   "name": "Switzerland",
+   "name_cn": "瑞士"
+  }
+ ],
+ "C": [
+  {
+   "code": "BRA",
+   "name": "Brazil",
+   "name_cn": "巴西"
+  },
+  {
+   "code": "MAR",
+   "name": "Morocco",
+   "name_cn": "摩洛哥"
+  },
+  {
+   "code": "HAI",
+   "name": "Haiti",
+   "name_cn": "海地"
+  },
+  {
+   "code": "SCO",
+   "name": "Scotland",
+   "name_cn": "苏格兰"
+  }
+ ],
+ "D": [
+  {
+   "code": "USA",
+   "name": "United States",
+   "name_cn": "美国"
+  },
+  {
+   "code": "PAR",
+   "name": "Paraguay",
+   "name_cn": "巴拉圭"
+  },
+  {
+   "code": "AUS",
+   "name": "Australia",
+   "name_cn": "澳大利亚"
+  },
+  {
+   "code": "TUR",
+   "name": "Turkey",
+   "name_cn": "土耳其"
+  }
+ ],
+ "E": [
+  {
+   "code": "GER",
+   "name": "Germany",
+   "name_cn": "德国"
+  },
+  {
+   "code": "CUW",
+   "name": "Curacao",
+   "name_cn": "库拉索"
+  },
+  {
+   "code": "CIV",
+   "name": "Ivory Coast",
+   "name_cn": "科特迪瓦"
+  },
+  {
+   "code": "ECU",
+   "name": "Ecuador",
+   "name_cn": "厄瓜多尔"
+  }
+ ],
+ "F": [
+  {
+   "code": "NED",
+   "name": "Netherlands",
+   "name_cn": "荷兰"
+  },
+  {
+   "code": "JPN",
+   "name": "Japan",
+   "name_cn": "日本"
+  },
+  {
+   "code": "TUN",
+   "name": "Tunisia",
+   "name_cn": "突尼斯"
+  },
+  {
+   "code": "SWE",
+   "name": "Sweden",
+   "name_cn": "瑞典"
+  }
+ ],
+ "G": [
+  {
+   "code": "BEL",
+   "name": "Belgium",
+   "name_cn": "比利时"
+  },
+  {
+   "code": "EGY",
+   "name": "Egypt",
+   "name_cn": "埃及"
+  },
+  {
+   "code": "IRN",
+   "name": "Iran",
+   "name_cn": "伊朗"
+  },
+  {
+   "code": "NZL",
+   "name": "New Zealand",
+   "name_cn": "新西兰"
+  }
+ ],
+ "H": [
+  {
+   "code": "ESP",
+   "name": "Spain",
+   "name_cn": "西班牙"
+  },
+  {
+   "code": "CPV",
+   "name": "Cape Verde",
+   "name_cn": "佛得角"
+  },
+  {
+   "code": "KSA",
+   "name": "Saudi Arabia",
+   "name_cn": "沙特"
+  },
+  {
+   "code": "URU",
+   "name": "Uruguay",
+   "name_cn": "乌拉圭"
+  }
+ ],
+ "I": [
+  {
+   "code": "FRA",
+   "name": "France",
+   "name_cn": "法国"
+  },
+  {
+   "code": "SEN",
+   "name": "Senegal",
+   "name_cn": "塞内加尔"
+  },
+  {
+   "code": "IRQ",
+   "name": "Iraq",
+   "name_cn": "伊拉克"
+  },
+  {
+   "code": "NOR",
+   "name": "Norway",
+   "name_cn": "挪威"
+  }
+ ],
+ "J": [
+  {
+   "code": "ARG",
+   "name": "Argentina",
+   "name_cn": "阿根廷"
+  },
+  {
+   "code": "ALG",
+   "name": "Algeria",
+   "name_cn": "阿尔及利亚"
+  },
+  {
+   "code": "AUT",
+   "name": "Austria",
+   "name_cn": "奥地利"
+  },
+  {
+   "code": "JOR",
+   "name": "Jordan",
+   "name_cn": "约旦"
+  }
+ ],
+ "K": [
+  {
+   "code": "POR",
+   "name": "Portugal",
+   "name_cn": "葡萄牙"
+  },
+  {
+   "code": "COD",
+   "name": "DR Congo",
+   "name_cn": "刚果金"
+  },
+  {
+   "code": "UZB",
+   "name": "Uzbekistan",
+   "name_cn": "乌兹别克"
+  },
+  {
+   "code": "COL",
+   "name": "Colombia",
+   "name_cn": "哥伦比亚"
+  }
+ ],
+ "L": [
+  {
+   "code": "ENG",
+   "name": "England",
+   "name_cn": "英格兰"
+  },
+  {
+   "code": "CRO",
+   "name": "Croatia",
+   "name_cn": "克罗地亚"
+  },
+  {
+   "code": "GHA",
+   "name": "Ghana",
+   "name_cn": "加纳"
+  },
+  {
+   "code": "PAN",
+   "name": "Panama",
+   "name_cn": "巴拿马"
+  }
+ ]
+}
